@@ -11,5 +11,3 @@ export const load = async () => {
 
   return { set };
 };
-
-export type PageData = Awaited<ReturnType<typeof load>>;

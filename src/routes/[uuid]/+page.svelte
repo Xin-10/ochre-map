@@ -6,7 +6,7 @@
   const item = data.item;
 </script>
 
-<div class="max-w-2xl mx-auto p-6">
+<div class="max-w-3xl mx-auto p-6">
   <a href="/">
     <Button variant="outline" class="text-sm">Home</Button>
   </a>
